@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to CrazyBank accounts related productions APIs"
+  message: "Welcome to CrazyBank accounts related productions API"
   contactDetails:
     name: "Mang Juan - Product Owner"
     email: "{cipher}a00b2ce48a153ab70e613b5914a41e4b5b0918e1c101a730a18bde0c539822db076ed460935b942616178d132da9e8e5"
