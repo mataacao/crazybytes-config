@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 loan:
-  message: "Welcome to CrazyBank loan related docker APIs"
+  message: "Welcome to CrazyBank loan related QA APIs"
   contactDetails:
     name: "Smitha Ray - QA Lead"
     email: smitha@crazybank.com
