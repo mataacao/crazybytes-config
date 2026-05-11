@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to CrazyBank accounts related docker APIs"
+  message: "Welcome to CrazyBank accounts related local APIs"
   contactDetails:
     name: "Kuzz Wagner - Developer"
     email: kuzz@crazybank.com
